@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "title": "romaski",
+      "price": "bessenno",
+      "description": "sdvdsv",
+      "image": "https://i.pinimg.com/236x/57/aa/c2/57aac2534e55bd1eddb340096e1b9bf0.jpg",
+      "id": 1,
+      "descr": "svety"
+    },
+    {
+      "title": "pictures",
+      "price": "21e21",
+      "description": "aefaf",
+      "image": "https://i.pinimg.com/236x/4c/c7/98/4cc798a569445befbabbbcde5ce9e7c0.jpg",
+      "id": 2,
+      "descr": "aefaf"
+    },
+    {
+      "title": "kit",
+      "price": "12321",
+      "description": "wdq",
+      "image": "https://i.pinimg.com/236x/25/2f/b1/252fb1a3827db6fd5f05db43d5793fc6.jpg",
+      "id": 3,
+      "descr": "wdq"
+    },
+    {
+      "title": "odinochka",
+      "price": "12e12",
+      "description": "wdwd",
+      "image": "https://i.pinimg.com/236x/f5/2a/b1/f52ab1323076d51a8267ea340acfc240.jpg",
+      "id": 4,
+      "descr": "wdwd"
+    },
+    {
+      "title": "chop",
+      "price": "23123",
+      "description": "aca",
+      "image": "https://i.pinimg.com/236x/a6/94/85/a69485ea34d7175299394bc5efab00a0.jpg",
+      "id": 5,
+      "descr": "aca"
+    },
+    {
+      "title": "idea",
+      "price": "WD",
+      "description": "WDd",
+      "image": "https://i.pinimg.com/236x/b0/a7/7b/b0a77b869173e4a5adb278d7fda74479.jpg",
+      "id": 6,
+      "descr": "WDd"
+    },
+    {
+      "title": "like",
+      "price": "12213",
+      "description": "AWFA",
+      "image": "https://i.pinimg.com/236x/c0/e5/49/c0e5490f4e64de9f8194083b1e77fcb1.jpg",
+      "id": 7,
+      "descr": "AWFA"
+    },
+    {
+      "title": "Aygerim",
+      "price": "`1321",
+      "description": "ASC",
+      "image": "https://i.pinimg.com/236x/73/1a/01/731a019fcbf227c77d108a2c5ca36781.jpg",
+      "id": 8,
+      "descr": "ASC"
+    },
+    {
+      "title": "confetca",
+      "price": "324",
+      "description": "dsv",
+      "image": "https://i.pinimg.com/236x/e9/b5/da/e9b5da2e6732fc3ab70c8c28659bea82.jpg",
+      "id": 9,
+      "descr": "dsv"
+    },
+    {
+      "title": "attar",
+      "price": "sdvsd",
+      "description": "sdvsd",
+      "image": "https://i.pinimg.com/236x/8c/ae/99/8cae9987b33664019d682bfec75471be.jpg",
+      "id": 10,
+      "descr": "sdvsd"
+    }
+  ]
+}
